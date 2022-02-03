@@ -9,3 +9,5 @@ My talks:
 
 Some of my other articles that you won't see in the above link
 - [Building a Blog With Next.js and MDX](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/)
+- [JavaScript Functions: Explained for Beginners](https://ebenezer.hashnode.dev/javascript-functions-explained-for-beginners)
+- [Python Functions: Explained for Beginners](https://ebenezer.hashnode.dev/python-functions-explained-for-beginners)
