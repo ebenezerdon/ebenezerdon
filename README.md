@@ -1,6 +1,6 @@
 Contact me on [NewDev](https://www.newdev.io/ebenezer)
 
-Hello human! I bet you'll love reading my technical articles [here](https://blog.logrocket.com/author/ebenezerdon/) and [here](https://www.newdev.io/blog) <br>
+Hello human! I bet you'd love reading my technical articles [here](https://blog.logrocket.com/author/ebenezerdon/) and [here](https://www.newdev.io/blog) <br>
 I write about JavaScript, Python, Rust and Scala! Don't worry, they're easy to understand :)
 
 A few of my talks:
