@@ -46,18 +46,9 @@
 
 ### Quick Links
 
-#### Platforms
-
-[NewDev](https://www.newdev.io) | [NextJob](https://nextjob.work)
-
-#### Developer Tools
-
-[License Pilot](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot) | [NPM Studio](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio)
-
-#### Books
-
-[Git Prodigy](https://www.amazon.com/Git-Prodigy-Mastering-Version-Control-ebook/dp/B0CBHQW5GM) | [Simplified JavaScript](https://www.amazon.com/Simplified-JavaScript-Very-Important-Programmers-ebook/dp/B0BW6KN79S)
-
-### Content
-
-[YouTube](https://youtube.com/ebenezerdon) | [LinkedIn](https://linkedin.com/in/ebenezerdon) | [Logrocket Blog](https://logrocket.com/blog/author/ebenezerdon/) | [NewDev Blog](https://newdev.io/blog)
+| Category        | Links                                                                                                                                                                                                                   |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Platforms       | [NewDev](https://www.newdev.io) \| [NextJob](https://nextjob.work)                                                                                                                                                      |
+| Developer Tools | [License Pilot](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot) \| [NPM Studio](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio)                              |
+| Books           | [Git Prodigy](https://www.amazon.com/Git-Prodigy-Mastering-Version-Control-ebook/dp/B0CBHQW5GM) \| [Simplified JavaScript](https://www.amazon.com/Simplified-JavaScript-Very-Important-Programmers-ebook/dp/B0BW6KN79S) |
+| Content         | [YouTube](https://youtube.com/ebenezerdon) \| [LinkedIn](https://linkedin.com/in/ebenezerdon) \| [Logrocket Blog](https://blog.logrocket.com/author/ebenezerdon/) \| [NewDev Blog](https://newdev.io/blog)              |
