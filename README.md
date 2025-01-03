@@ -46,9 +46,21 @@
 
 ### Quick Links
 
-| Category        | Links                                                                                                                                                                                                                   |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Platforms       | [NewDev](https://www.newdev.io) \| [NextJob](https://nextjob.work)                                                                                                                                                      |
-| Developer Tools | [License Pilot](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot) \| [NPM Studio](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio)                              |
-| Books           | [Git Prodigy](https://www.amazon.com/Git-Prodigy-Mastering-Version-Control-ebook/dp/B0CBHQW5GM) \| [Simplified JavaScript](https://www.amazon.com/Simplified-JavaScript-Very-Important-Programmers-ebook/dp/B0BW6KN79S) |
-| Content         | [YouTube](https://youtube.com/ebenezerdon) \| [LinkedIn](https://linkedin.com/in/ebenezerdon) \| [Logrocket Blog](https://blog.logrocket.com/author/ebenezerdon/) \| [NewDev Blog](https://newdev.io/blog)              |
+<table width="100%">
+<tr>
+<td width="20%"><strong>Platforms</strong></td>
+<td width="80%"><a href="https://www.newdev.io">NewDev</a> | <a href="https://nextjob.work">NextJob</a></td>
+</tr>
+<tr>
+<td><strong>Developer Tools</strong></td>
+<td><a href="https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot">License Pilot</a> | <a href="https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio">NPM Studio</a></td>
+</tr>
+<tr>
+<td><strong>Books</strong></td>
+<td><a href="https://www.amazon.com/Git-Prodigy-Mastering-Version-Control-ebook/dp/B0CBHQW5GM">Git Prodigy</a> | <a href="https://www.amazon.com/Simplified-JavaScript-Very-Important-Programmers-ebook/dp/B0BW6KN79S">Simplified JavaScript</a></td>
+</tr>
+<tr>
+<td><strong>Content</strong></td>
+<td><a href="https://youtube.com/ebenezerdon">YouTube</a> | <a href="https://linkedin.com/in/ebenezerdon">LinkedIn</a> | <a href="https://blog.logrocket.com/author/ebenezerdon/">Logrocket Blog</a> | <a href="https://newdev.io/blog">NewDev Blog</a></td>
+</tr>
+</table>
