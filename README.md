@@ -28,6 +28,8 @@
 + NextJob (AI Job Platform)
   - Track job applications, generate personalized cover letters, get tailored interview prep, and increase your job-search success rate.
 
++ Faye (Privacy-First Period Tracker)
+  - A completely free, offline-first menstrual cycle app. No accounts, no tracking, no ads. Just exceptional cycle tracking with great UX.
 
 + License Pilot (VSCode Extension)
   - Quickly generate and add the right license to your project with just a few clicks. Simple, fast, and reliable.
@@ -48,7 +50,7 @@
 
 | Category        | Links                                                                                                                                                                                                                   |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Platforms       | [NewDev](https://www.newdev.io) // [NextJob](https://nextjob.work)                                                                                                                                                      |
+| Platforms       | [NewDev](https://www.newdev.io) // [NextJob](https://www.nextjob.work) // [Faye](https://faye.health/period-tracker)                                                                                                                                                     |
 | Developer Tools | [License Pilot](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot) // [NPM Studio](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio)                              |
 | Books           | [Git Prodigy](https://www.amazon.com/Git-Prodigy-Mastering-Version-Control-ebook/dp/B0CBHQW5GM) // [Simplified JavaScript](https://www.amazon.com/Simplified-JavaScript-Very-Important-Programmers-ebook/dp/B0BW6KN79S) |
 | Content         | [YouTube](https://youtube.com/ebenezerdon) // [LinkedIn](https://linkedin.com/in/ebenezerdon) // [Logrocket Blog](https://blog.logrocket.com/author/ebenezerdon/) // [NewDev Blog](https://newdev.io/blog)              |
