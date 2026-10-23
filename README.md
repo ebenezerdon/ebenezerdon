@@ -29,9 +29,9 @@
 + Curious 2B (AI Model)
   - My language model behind CuriousLM, a phone assistant and a keyboard in one. It answers
     questions, reads notifications and catches scams, drafts replies in your own voice, fixes
-    typos, tidies voice typing, and runs the calendar by tool call. Eight languages, all on
-    the device. It reads notifications at 98.3% against the base model's 65.3%, and suggests
-    replies at 89.7% against 23.4%.
+    typos, tidies voice typing, and runs the calendar by tool call. Eight languages, 1.21 GB,
+    running offline on a phone, reading notifications at 98.3% and suggesting replies in the
+    person's own voice at 89.7%.
 
 + Asụsụ Ọma (Igbo Learning App)
   - A free Igbo learning app with guided lessons and real Igbo voices, for anyone who wants
