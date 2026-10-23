@@ -27,10 +27,15 @@
     with no account and no internet connection.
 
 + Curious 2B (AI Model)
-  - My own on-device language model: Qwen3.5 2B fine-tuned for the work CuriousLM does on a
-    phone, reading your calendar and notifications and calling tools. Runs locally with
-    llama.cpp, in eight languages. 93.6% on held-out phone and calendar turns against 85.4%
-    for the base model, and 94.2% against 64.5% on notification reading.
+  - The language model behind CuriousLM: Qwen3.5 2B, fine-tuned into a real phone assistant
+    and keyboard. It answers questions, reads incoming messages and notifications and catches
+    scams, drafts replies in your own voice, fixes typos, tidies voice typing, suggests the
+    next word, writes the morning and evening notes, and runs the calendar and reminders by
+    tool call. Eight languages, 1.21 GB, running entirely on the device with llama.cpp.
+    Against the base model: notification reading 98.3% vs 65.3%, the hard set of receipts,
+    deliveries and scams 97.2% vs 59.3%, reply suggestions in the person's voice 89.7% vs
+    23.4%, tidying voice typing 97.4% vs 56.9%, the assistant's writing 82.4% vs 18.8%, and
+    it claims an action it did not take 0.2% of the time against 2.7%.
 
 + Asụsụ Ọma (Igbo Learning App)
   - A free Igbo learning app with guided lessons and real Igbo voices, for anyone who wants
