@@ -26,6 +26,12 @@
   - Free, private AI that runs entirely on your device. Chat, write, and work with your files
     with no account and no internet connection.
 
++ Curious 2B (AI Model)
+  - My own on-device language model: Qwen3.5 2B fine-tuned for the work CuriousLM does on a
+    phone, reading your calendar and notifications and calling tools. Runs locally with
+    llama.cpp, in eight languages. 93.6% on held-out phone and calendar turns against 85.4%
+    for the base model, and 94.2% against 64.5% on notification reading.
+
 + Asụsụ Ọma (Igbo Learning App)
   - A free Igbo learning app with guided lessons and real Igbo voices, for anyone who wants
     the language, at home or abroad.
@@ -80,6 +86,7 @@
 
 | Category        | Links                                                                                                                                                                                                                                                                                                                              |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Models          | [Curious 2B](https://huggingface.co/ebenezerdon/curious-2b)                                                                                                                                                                                                                                        |
 | Apps            | [CuriousLM](https://curiouslm.com) // [Asụsụ Ọma](https://asusuoma.com) // [CopyMe](https://copyme.cc) // [Teda](https://teda.dev) // [Faye](https://faye.health)                                                                                                                                                                   |
 | Platforms       | [NewDev](https://www.newdev.io) // [NextJob](https://nextjob.work)                                                                                                                                                                                                                                                                 |
 | Developer Tools | [NPM Studio](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.npm-studio) // [License Pilot](https://marketplace.visualstudio.com/items?itemName=EbenezerDon.license-pilot) // [Offline AI Chat](https://chat.ebenezerdon.com)                                                                                      |
