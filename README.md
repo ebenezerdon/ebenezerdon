@@ -27,11 +27,11 @@
     with no account and no internet connection.
 
 + Curious 2B (AI Model)
-  - My language model behind CuriousLM, a phone assistant and a keyboard in one. It answers
-    questions, reads notifications and catches scams, drafts replies in your own voice, fixes
-    typos, tidies voice typing, and runs the calendar by tool call. Eight languages, 1.21 GB,
-    running offline on a phone, reading notifications at 98.3% and suggesting replies in the
-    person's own voice at 89.7%.
+  - My language model behind CuriousLM: a full phone assistant, running entirely on your own
+    device. It knows what is happening on your phone, understands everything that lands
+    there, answers and acts on it with tools, writes and replies in your own voice, and
+    drives the keyboard you type on all day. It catches scams, runs your calendar, speaks
+    eight languages, and is 1.21 GB with no server anywhere.
 
 + Asụsụ Ọma (Igbo Learning App)
   - A free Igbo learning app with guided lessons and real Igbo voices, for anyone who wants
